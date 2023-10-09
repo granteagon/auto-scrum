@@ -26,6 +26,6 @@ Users should be able to use templates for and self-create project phases, assign
 - Ability to select the right team member for the question at hand
 - The ability to designate leadership agents to make decisions
 
-### Agents
+### Agent Persona Builder
 
 Agents should be kept in a library and may eventually be spun off into a new repository/dependency.  A user should be able to define the mission statement (prompt) for an agent.  We should also include an Agent Builder Agent that will take the prompt, refine it with or without user input and then train that agent using materials like books, blog articles and the like to gather the materials used to drive decision making.  For example, if the user wants to create an Innovator Agent patterned after Steve Jobs, then we'll go find everything he ever said and was written about him to create a database used to drive the decision making ability of the Innovator Agent.
